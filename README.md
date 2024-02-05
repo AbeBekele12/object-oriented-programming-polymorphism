@@ -27,9 +27,7 @@ For example, the makeSound method of the Animal class is abstract and has no bod
 
 The Polymorphism class is the main class that creates and tests the objects of the subclasses. It creates an array of Animal objects and assigns them different instances of the subclasses. Then, it loops through the array and calls the methods of each object. The output shows the polymorphism in action, as each object performs the same method but with different results.
 
-Here is a diagram that shows the class hierarchy and the polymorphism:
 
-![Class diagram]
 
 Here is a sample output of the project:
 
