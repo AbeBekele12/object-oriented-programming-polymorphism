@@ -1,5 +1,5 @@
 
-# Object-Oriented Programming: Polymorphism
+#  Polymorphism  (OOP)
 
 This project demonstrates the concept of polymorphism in object-oriented programming using Java. Polymorphism is the ability of an object to take on different forms depending on the context. In this project, I have created a superclass called Animal and three subclasses: Dog, Cat, and Bird. Each subclass overrides the methods of the superclass to perform different actions, such as making sounds, moving, and eating.
 
