@@ -6,7 +6,6 @@ public abstract class PhoneCall   implements InterfacePhone {
 private String PhoneNumber;
 
 public abstract void Thing();
-	// Default constructor
 	public PhoneCall() {
 		PhoneNumber = " ";  
 		}
