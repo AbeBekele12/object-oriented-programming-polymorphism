@@ -1,16 +1,11 @@
 package wq;
-/*
- * Name:Abenezer Y Bekele
- * Course: CIDS 235
- * Project 2
- */   
+
 
 
 
 public class Driver {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		IncomingCall Call1= new IncomingCall("212-555-3096");
 		System.out.println(Call1);
@@ -33,7 +28,7 @@ public class Driver {
 		OutgoingCall Call10= new OutgoingCall("235-955-1371 ",3);
 		System.out.println(Call10);
 
-//		
+		
 	}
 
 }
